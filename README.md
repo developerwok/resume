@@ -1,4 +1,3 @@
-=======
 # Resume
 
 [baoquocdoan.com](https://baoquocdoan.com) >
