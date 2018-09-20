@@ -1,5 +1,3 @@
-# Resume
-
 [baoquocdoan.com](https://baoquocdoan.com) >
 [developerwok@gmail.com.com](mailto:developerwok@gmail.com) >
 [951-415-7255](tel:9514157255)
