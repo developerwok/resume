@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "email: developerwok@gmail.com     linkedin: https://www.linkedin.com/in/baoquocdoan     tel: 951-415-7255     location: los angeles / berkeley",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developerwok/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developerwok/resume/issues"
+  },
+  "homepage": "https://github.com/developerwok/resume#readme",
+  "dependencies": {
+    "markdown-pdf": "^9.0.0"
+  }
+}
