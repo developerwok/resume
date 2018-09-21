@@ -34,7 +34,7 @@
 
 **https://wrangle.me, Los Angeles, CA**  
 Co-Founder 
-*Feb 2016 &ndash; March 2018*   
+*Feb 2016 &ndash; Oct 2017*   
 - Lead product ideation
 - Conducted user interviews
 - Designed mockups (Sketch) for user feature testing
