@@ -6,7 +6,7 @@
 
 >I'm seeking a role on a dynamic, ambitious &amp; curious team. I love working with modern web technology stacks and exploring new productivity tools. I aspire to be a major contributor within an organization that holds a meaningful mission. Sharing my knowledge and giving and having mentorship are values that I look for in opportunities. I have a genuine love of learning and look forward to collaboratively tackling hard problems.
 
-## BaoQuoc Doan &ndash; Senior Frontend Engineer
+## BaoQuoc Doan &ndash; Frontend Engineer
 
 - 7+ years of experience as a Frontend software engineer
 - Comfortable with full-stack and dev-ops tasks
@@ -50,7 +50,7 @@ Co-Founder
 - Developed reusable components and modules (React)
 
 **Zuma Ventures, Flyingyak.com, Santa Monica, CA**
-Senior Frontend Developer
+Lead Frontend Developer
 *September 2014 &ndash; April 2015*
 - Conduct competitor research and analysis
 - Prototyped UI elements
@@ -60,7 +60,7 @@ Senior Frontend Developer
 - Tested early version of Sails.js
 
 **Science-Inc, Santa Monica, CA**
-Senior Frontend Developer
+Lead Frontend Developer
 
 *April 2013  &ndash; July 2014*
 - Built landing pages for a variety of e-commerce subscription concepts
