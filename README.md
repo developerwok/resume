@@ -4,7 +4,7 @@
 
 -------
 
->I'm seeking a role on a dynamic, ambitious &amp; curious team. I love working with modern web technology stacks and exploring new productivity tools. I aspire to be a major contributor within an organization that holds a meaningful mission. Sharing my knowledge and mentorship are values that seek for in opportunities through out my professional career. I have a genuine love of learning and look forward to collaboratively tackling hard problems.
+>I'm seeking a role on a dynamic, ambitious &amp; curious team. I love working with modern web technology stacks and exploring new productivity tools. I aspire to be a major contributor within an organization that holds a meaningful mission. Sharing my knowledge and giving and having mentorship are values that I look for in opportunities. I have a genuine love of learning and look forward to collaboratively tackling hard problems.
 
 ## BaoQuoc Doan &ndash; Senior Frontend Engineer
 
@@ -72,7 +72,7 @@ Senior Frontend Developer
 - Designed an internship program that lead to the direct hiring of 3 junior frontend developers.
 
 **Ellie Activewear, Santa Monica, CA**
-Senior Frontend Developer
+Frontend Developer
 *October 2012 &ndash; April 2013*
 
 - Executed 2 Site rebranding within 3 months
