@@ -39,9 +39,9 @@ Application III Developer
 April 2019 - Current
 
 - Collaborate and establish frontend practices with team members
-- Gather acessibility standards, and audit sites for compliance
+- Gather accessibility standards, and audit sites for compliance
 - Convert legacy CMS to wagtail(python)
-- Implement payroll dededuction feature in Ember.js
+- Implement payroll deduction features in Ember.js
 - Maintain prior application development and site updates.
 
 **https://wrangle.me, Los Angeles, CA**
