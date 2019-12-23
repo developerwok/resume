@@ -25,7 +25,7 @@
 
 ### Tools
 
-- Frameworks &ndash; React, Mobx, Redux, Node.js, Express, Jest, Handlebars, Styled Components, Bootstrap, Axios, Bluebird, jQuery, AJAX
+- Frameworks &ndash; Ember, React, Mobx, Redux, Node.js, Express, Jest, Handlebars, Styled Components, Bootstrap, Axios, Bluebird, jQuery, AJAX
 - Automation &ndash; Gulp, Webpack, Bash
 - Issue Tracking &ndash; Jira, Trello
 - Content Management System &ndash; Shopify, WordPress
@@ -33,6 +33,16 @@
 - Event Tracking &ndash; Mixpanel, Google Analytics
 
 ### Work History
+
+**Public University, Berkeley, CA**
+Application III Developer
+April 2019 - Current
+
+- Collaborate and establish frontend practices with team members
+- Gather acessibility standards, and audit sites for compliance
+- Convert legacy CMS to wagtail(python)
+- Implement payroll dededuction feature in Ember.js
+- Maintain prior application development and site updates.
 
 **https://wrangle.me, Los Angeles, CA**
 Co-Founder
